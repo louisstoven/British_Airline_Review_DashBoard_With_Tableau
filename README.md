@@ -4,10 +4,7 @@ This repository contains a project to create a Tableau dashboard for visualizing
 
 ## Project Overview
 
-The goal of this project is to build an interactive, professional-grade dashboard in Tableau that provides insights into various aspects of customer feedback and airline performance. The dashboard is designed to facilitate quick understanding of:
-- Customer satisfaction levels.
-- Key service areas needing improvement.
-- Trends and patterns in reviews and ratings over time.
+The goal of this project is to build an interactive, professional-grade dashboard in Tableau that provides insights into various aspects of customer feedback and airline performance.
 
 ## Data Source
 
